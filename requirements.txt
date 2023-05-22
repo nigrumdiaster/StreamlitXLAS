@@ -1,0 +1,11 @@
+streamlit 
+opencv-python-headless
+numpy
+requests
+beautifulsoup4
+streamlit
+numpy
+Pillow
+flask
+keras~=2.6.0
+tensorflow~=2.6.0
